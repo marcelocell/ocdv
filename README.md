@@ -1,10 +1,9 @@
 [English version below](#o-código-dá-20-ocdv-website-source-code)
 
-[![GitHub License](https://img.shields.io/github/license/marcelocell/ocdv)
-](https://creativecommons.org/licenses/by/4.0/)&#160;
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmarcelocell.github.io%2Focdv%2F)
-](http://marcelocell.github.io/ocdv)&#160;
-![GitHub Created At](https://img.shields.io/github/created-at/marcelocell/ocdv)&#160;
+[![GitHub License](https://img.shields.io/github/license/marcelocell/ocdv)](https://creativecommons.org/licenses/by/4.0/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmarcelocell.github.io%2Focdv%2F)](http://marcelocell.github.io/ocdv)
+![GitHub Created At](https://img.shields.io/github/created-at/marcelocell/ocdv)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/marcelocell/ocdv/main)
 
 ## Código Fonte do Site "O Código Dá 20" (OCDV)
 
