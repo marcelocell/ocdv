@@ -6,7 +6,7 @@ tags: [hello]
 keywords: [blog]
 ---
 
-![Obi Wan Kenobi falando "Hello, world!"](img/hello_there.jpg)
+![Obi Wan Kenobi falando "Hello, world!" ao invés de "Hello, there!"](img/hello_there.jpg "Obi Wan Kenobi (personagem da saga Star Wars)")
 
 Existe uma tradição (ou lenda urbana) entre desenvolvedores: nunca se começa uma nova linguagem, framework ou biblioteca sem antes escrever um bom e velho “hello world”. Não sou exatamente supersticioso… mas não tinha como ser diferente no primeiro post. 😂
 
@@ -21,7 +21,7 @@ A proposta d'O Código Dá 20 (ou, se preferir, OCDV) é ser direto, técnico e 
 > Este projeto acaba de declarar "Olá" para o mundo!
 
 <div class="text--center">
-  ![Pintinho saindo do ovo](img/egg.jpg)
+  ![Pintinho saindo do ovo](img/egg.jpg "Screenshot do jogo Animaniacs para SNES")
 </div>
 
 ```js

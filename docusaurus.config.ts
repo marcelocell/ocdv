@@ -134,7 +134,7 @@ const config: Config = {
           html: ' ',
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} - OCDV - O Código Dá 20. Construído com Docusaurus.`,
+      copyright: `Licenciado sob a <a href="https://creativecommons.org/licenses/by/4.0/deed.pt-br">licença CC BY 4.0</a> ${new Date().getFullYear()} | OCDV - O Código Dá 20. <br>Construído com Docusaurus.`,
     },
     prism: {
       theme: prismThemes.dracula,
