@@ -1,9 +1,10 @@
 ---
 title: Hello, World!
 authors: marcelojr
-image: hello_there.jpg
+image: img/hello_there.jpg
+description: "Existe uma tradição (ou lenda urbana) entre desenvolvedores: nunca se começa uma nova linguagem, framework ou biblioteca sem antes escrever um bom e velho “hello world”. Não sou exatamente supersticioso… mas não tinha como ser diferente no primeiro post."
 tags: [hello]
-keywords: [blog]
+keywords: [blog, primeira publicação]
 ---
 
 ![Obi Wan Kenobi falando "Hello, world!" ao invés de "Hello, there!"](img/hello_there.jpg "Obi Wan Kenobi (personagem da saga Star Wars)")
