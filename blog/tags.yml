@@ -2,3 +2,19 @@ hello:
   label: Hello World
   permalink: /hello-world
   description: 'O começo de tudo: "Hello, world!"'
+
+docusaurus:
+  label: Docusaurus
+  description: Docusaurus é o gerador de sites estáticos usado aqui no OCDV. Ele oferece recursos de documentação prontos para uso, mas pode ser usado para criar qualquer tipo de site (site pessoal, produto, blog, landing pages de marketing, etc.).
+
+github_pages:
+  label: GitHub Pages
+  description: Hospedado diretamente do repositório do GitHub. Basta editar, dar um push e as alterações serão publicadas.
+
+shields:
+
+github:
+
+certificacoes:
+
+aws:
