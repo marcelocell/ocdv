@@ -11,7 +11,7 @@ keywords: [blog, primeira publicação]
 
 Existe uma tradição (ou lenda urbana) entre desenvolvedores: nunca se começa uma nova linguagem, framework ou biblioteca sem antes escrever um bom e velho “hello world”. Não sou exatamente supersticioso… mas não tinha como ser diferente no primeiro post. 😂
 
-{/* truncate */}
+<!-- truncate -->
 
 Depois de muito tempo pensando, finalmente tirei da gaveta uma ideia antiga: criar um espaço para compartilhar aprendizados, reflexões e boas histórias do mundo da tecnologia e desenvolvimento de software.
 
