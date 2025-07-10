@@ -78,7 +78,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: contextPath + 'img/social-card.jpg',
+    image: contextPath + 'img/ocdv-logo.jpg',
     navbar: {
       title: 'O Código Dá 20',
       hideOnScroll: true,
