@@ -2,10 +2,10 @@
 title: Quem é esse Pokemon? É o Docusaurus!
 sidebar_label: Quem é esse Pokemon?
 authors: marcelojr
-#image: img/thumbnails/{}.jpg
-#description: {}
+image: img/thumbnails/docusaurus_pokemon.png
+description: O Docusaurus é um gerador de sites estáticos. Ele cria um SPA (Single Page Application) com navegação rápida do lado do cliente, aproveitando todo o poder do React para tornar seu site interativo. Ele oferece recursos de documentação prontos para uso, mas pode ser usado para criar qualquer tipo de site (site pessoal, produto, blog, landing pages de marketing, etc.).
 tags: [docusaurus]
-#keywords: []
+keywords: [Docusaurus, site estático, React, documentação, landing page, blog, GitHub Pages]
 draft: true
 ---
 
@@ -14,7 +14,11 @@ draft: true
 ## Introdução
 
 Tradução do site:
-"🧐 O Docusaurus é um gerador de sites estáticos. Ele cria um aplicativo de página única com navegação rápida do lado do cliente, aproveitando todo o poder do React para tornar seu site interativo. Ele oferece recursos de documentação prontos para uso, mas pode ser usado para criar qualquer tipo de site (site pessoal, produto, blog, landing pages de marketing, etc.)."
+"🧐 O Docusaurus é um gerador de sites estáticos. Ele cria um SPA (Single Page Application) com navegação rápida do lado do cliente, aproveitando todo o poder do React para tornar seu site interativo. Ele oferece recursos de documentação prontos para uso, mas pode ser usado para criar qualquer tipo de site (site pessoal, produto, blog, landing pages de marketing, etc.)."
+
+<!-- truncate -->
+
+![Docusaurus Pokemon](img/docusaurus_revelacao.png)
 
 ## Primeiros Passos
 
@@ -50,7 +54,6 @@ Sair "ctrl + c" ou "Stop 'start'"
 
 ## Considerações Finais
 
-<!-- truncate -->
 
 ```js
 return 20;
