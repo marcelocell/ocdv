@@ -12,7 +12,10 @@ draft: true
 
 ## Como?
 
+https://www.conventionalcommits.org/pt-br/v1.0.0/
+
 ## Minha Experiencia
+
 https://github.com/facebook/docusaurus/pull/11315
 
 ## Considerações Finais
