@@ -45,9 +45,6 @@ const config: Config = {
       {
         docs: false,
         pages: false,
-        svgr: false,
-        gtag: false,
-        googleTagManager: false,
         sitemap: {},
         blog: {
           blogTitle: '',
@@ -140,7 +137,7 @@ const config: Config = {
     prism: {
       theme: prismThemes.dracula,
       darkTheme: prismThemes.dracula,
-      additionalLanguages: ['java'],
+      additionalLanguages: ['java', 'bash'],
     },
     blog : {
       sidebar: {
