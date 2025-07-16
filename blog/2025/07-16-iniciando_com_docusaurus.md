@@ -13,7 +13,7 @@ draft: true
 
 ## É o Docusaurus!
 
-Antes de começar a falar deste bichinho, vamos consultar a ~Pokédex~ própria [documentação](https://docusaurus.io/docs) dele:
+Antes de começar a falar deste bichinho, vamos consultar ~a Pokédex~ a própria [documentação](https://docusaurus.io/docs) dele:
 
 > 🧐 O Docusaurus é um gerador de sites estáticos. Ele cria um SPA (Single Page Application) com navegação rápida do lado do cliente, aproveitando todo o poder do React para tornar seu site interativo. Ele oferece recursos de documentação prontos para uso, mas pode ser usado para criar qualquer tipo de site (site pessoal, produto, blog, landing pages de marketing, etc.).
 >
@@ -27,13 +27,13 @@ Antes de começar a falar deste bichinho, vamos consultar a ~Pokédex~ própria 
 
 Agora que nosso Pokémon foi devidamente apresentado, quem olhar no rodapé desta página vai perceber que o **OCDV** é construído com Docusaurus.
 
-Eu poderia usar um CMS de prateleira? Poderia! Talvez até devesse... Mas que graça teria só escrever os posts, sem ao menos ~sofrer um pouco antes~ aprender uma ferramenta nova?
+Eu poderia usar um CMS de prateleira? Poderia! Talvez até devesse... Mas que graça teria só escrever os posts, sem ao menos ~sofrer um pouco antes~ aprender coisas novas?
 
 Ok, eu já tinha a ideia de gerar páginas estáticas e usar meu lado dev para fazer este blog, mas por que o Docusaurus e não ~o Charmander ou o Squirtle~ outra ferramenta?
 
-Primeiro, porque nas minhas pesquisas ele sempre aparecia nas listas de top 10. Segundo, porque eu comecei a usar o Docusaurus para fazer documentação no trabalho, nada mais justo do que usar uma ferramenta que já conheço minimamente e que é útil no meu dia a dia.
+Um primeiro fator é que nas minhas pesquisas ele sempre aparecia nas listas de top 10. Segundo, porque eu comecei a usar o Docusaurus recentemente para fazer documentações técnicas no trabalho, nada mais justo do que usar uma ferramenta que já conheço um pouco e que é útil no meu dia a dia.
 
-Para argumentos mais técnicos sobre o uso do Docusaurus, tem essa [sessão da documentação oficial](https://docusaurus.io/docs#comparison-with-other-tools "Comparison with other tools"), que compara várias ferramentas.
+Para argumentos mais técnicos sobre o uso do Docusaurus, tem essa [sessão da documentação oficial que compara várias ferramentas](https://docusaurus.io/docs#comparison-with-other-tools "Comparison with other tools").
 
 ## Início da Jornada
 
@@ -75,7 +75,7 @@ Em seguida, entre na pasta do projeto e rode:
 npm start
 ```
 
-Outra forma é abrir o projeto no WebStorm, localizar o **`package.json`**, clicar no ícone de <spam class="text--success">play</spam> na linha do script **start** e clicar em **Run 'start'**:
+Outra forma é abrir o projeto no **WebStorm**, localizar o arquivo **`package.json`**, clicar no ícone de <spam class="text--success">play</spam> na linha do script **start** e clicar em **Run 'start'**:
 
 ![Script start](img/scrpt_start.png "Captura de tela feita pelo autor")
 
@@ -85,7 +85,9 @@ Se tudo der certo, você verá algo como:
 
 ![Resultado do comando start](img/bash_npm_start.png "Captura de tela feita pelo autor")
 
-O navegador deve abrir a página local com um tutorial. Se não abrir, basta acessar manualmente o endereço exibido no terminal. Caso sua versão seja igual à minha (**3.8.1**), a página será esta:
+O navegador deve abrir uma nova aba com a página rodando localmente em modo de desenvolvimento e apresentar um tutorial do Docusaurus. Se não abrir _automagicamente_, basta acessar manualmente o endereço exibido no terminal. 
+
+Caso sua versão seja igual à minha (**3.8.1**), a página será igual a esta:
 
 ![Página inicial do tutorial do Docusaurus](img/tutorial_docusaurus.png "Captura de tela feita pelo autor")
 
